@@ -140,6 +140,7 @@
 - [Wielded](https://wielded.com) - Web UI that works for OpenAI, Azure, Anthropic, and AWS Bedrock. Free for individuals.
 - [Price Per Token](https://pricepertoken.com) - Compare LLM API pricing across providers. Includes token counter and cost calculator.
 - [Taskade](https://taskade.com) - AI-powered workspace with custom AI agents, multi-model support (GPT, Claude, Gemini), project management, and workflow automation for teams.
+- [AI Chat Extractor](https://fix42.com/tools/ai-chat-extractor/) - Export shared ChatGPT, Claude and Grok conversation links as Markdown, plain text or JSON.
 
 ### Self-hosted
 
